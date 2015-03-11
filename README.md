@@ -20,7 +20,7 @@ At a high-level, the steps are as follows:
   * DES file
   * CST file
 
-	We have provided a generic AICC package containing these four files which you can use for this purpose.
+	We have provided these four AICC files which you can use for this purpose.
 
 2. Place all files you would like to host in a single folder or folder tree.
 
