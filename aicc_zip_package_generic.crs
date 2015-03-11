@@ -1,0 +1,16 @@
+[Course]
+Course_Creator = Not Applicable
+Course_ID = NA
+Course_System = Not Applicable
+Course_Title = Not Applicable
+Level = 1
+Max_Fields_CST = 2
+Total_AUs = 1
+Total_Blocks = 0
+Version = 1.0.0
+
+[Course_Behavior]
+Max_Normal = 99
+
+[Course_Description]
+Not Applicable.
